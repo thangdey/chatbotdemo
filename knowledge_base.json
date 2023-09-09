@@ -1,0 +1,247 @@
+{
+    "questions": [
+      
+
+      {
+        "question": "Xin chào",
+        "answer": "Chào bạn. Một ngày của bạn như thế nào?"
+      },
+      {
+        "question": "Tên bạn là gì?",
+        "answer": "My name is ChatBot."
+      },
+      {
+        "question": "Tốt",
+        "answer": "Tuyệt"
+      },
+      {
+        "question": "Không có vấn đề gì",
+        "answer": "Tuyệt, hãy luôn giữ những cảm xúc tích cực như thế. Và hãy luôn nhớ rằng khi bạn gặp vấn đề hãy tìm đến tôi"
+      },
+      {
+        "question": "Không ổn",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tệ",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tôi gặp vấn đề",
+        "answer": "Bạn có thể chia sẻ vấn đề bạn đang gặp phải?"
+      },
+      {
+        "question": "Tôi bị công kích trên mạng xã hội",
+        "answer": "Tôi hiểu tâm trạng của bạn hiện giờ có lẽ rất khó chịu. Bạn có thể kể cho tôi nghe cụ thể hơn lý do bạn bị công kích không?"
+      },
+      {
+        "question": "Cảm ơn bạn vì đã giúp đỡ",
+        "answer": "Những thông tin ở đây nhìn chung chỉ có thể nên tham khảo, bạn có thể thử hỏi những người xung quanh về vấn đề bạn đang mắc phải để từ đó họ sẽ có cách giải quyết cho bạn"
+      },
+
+
+
+      
+      {
+        "question": "Tôi nghĩ tôi gặp vấn đề với lời nói của tôi",
+        "answer": "Việc phát ngôn dẫn đến tranh cãi của bạn có thể đến từ việc mọi người không hiểu rõ ý kiến bạn muốn truyền đạt. Hãy thử giải thích rõ hơn và lên tiếng xin lỗi nếu có thể."
+      },
+      {
+        "question": "Những bình luận trên Internet của tôi có vấn đề",
+        "answer": "Hãy tìm hiểu rõ xem vì sao mọi người lại tức giận và phản bác lại phát ngôn của bạn. Nếu họ đã hiểu sai, hãy lên tiếng giải thích. Nếu thật sự do bạn sai, hãy gửi lời xin lỗi một cách khéo léo."
+      },
+      {
+        "question": "Tôi bị công kích bởi phát ngôn của mình",
+        "answer": "Một ý kiến qua một cách truyền đạt thiếu tinh tế cũng có thể khiến người khác nhìn nhận sai về thái độ của bạn. Hãy thử diễn giải và trình bày lại một cách khôn khéo hơn để mọi người thấu hiểu."
+      },
+      {
+        "question": "Tôi đã có những bình luận, phát ngôn thiếu suy nghĩ, đúng đắn.",
+        "answer": "Không sao cả, mọi việc sẽ dần ổn thôi. Việc bị người khác phản bác cũng sẽ khó mà chịu đựng nổi. Chính vì vậy có lẽ việc tạm rời xa các trang mạng xã hội sẽ là lựa chọn tốt cho bạn. Và trong khoảng thời gian đó, bạn hãy thử tìm hiểu xem mình đang gặp vấn đề gì với lời nói của mình, để từ đó có thể đưa ra một lời xin lỗi hợp lý nhất, đồng thời hãy thử hỏi ý kiến của những người xung quanh nếu cần giúp đỡ. Và hãy luôn ghi nhớ rằng lần sau hãy cẩn thận hơn nhé."
+      },
+      {
+        "question": "Dường như mọi người đã hiểu sai ý tôi và họ công kích tôi vì những lời bình luận đó",
+        "answer": "Đôi lúc sẽ thật khó để hiểu hết ý kiến của người khác, phải không nào? Chính vì vậy nên việc những người xung quanh không hiểu ý kiến của bạn không phải là một việc quá hiếm hoi. Bạn có thể thử việc nói rõ ý hơn cho họ hiểu, hay là thử diễn đạt theo cách khác để đảm bảo là bọn họ đều nắm được hết những gì bạn muốn truyền đạt nếu bọn họ thực sự không có ý xấu hay muốn hiểu bạn. Còn nếu họ chỉ muốn lợi dụng dịp đó để hùa theo và công kích bạn, đừng ngần ngại nói với những người xung quanh hay là chặn những tài khoản đó."
+      },
+      {
+        "question": "Tôi đang cảm thấy rất mệt mỏi và áp lực khi bị đám đông công kích bởi những lời nói của mình",
+        "answer": "Hãy bình tĩnh lại, tạm rời xa không gian mạng mà bạn đang sử dụng. Giờ có lẽ tâm trí của bạn sẽ không còn có thể học hay làm việc để quên đi việc bị công kích rồi. Bạn có thể thử ngủ, hay nghỉ ngơi, để trước hết ổn định lại những cảm xúc của bạn. Sau khi cảm thấy ổn hơn thì hãy thử tìm phương án giải quyết, bạn hãy xem xem bạn đã nói không đùng ở đâu, và từ đó đưa ra cho họ một lời xin lỗi. Đừng quên bạn cũng nên cẩn thận hơn cho những lần sau nhé."
+      },
+      {
+        "question": "Tôi rất áp lực trước sự công kích của cộng đồng mạng vì lời nói của mình",
+        "answer": "Tôi hiểu việc chứng kiến người thân mình phải hứng chịu sự chỉ trích từ đám đông chỉ vì lỗi sai của bản thân khiến bạn cảm thấy tội lỗi và áp lực hơn rất nhiều lần. Điều bạn cần làm bây giờ là hãy lên tiếng xin lỗi mọi người và nghiêm túc nhìn nhận lại cái sai ở mình. Có lẽ bạn đã khiến gia đình, người thân mình buồn, nhưng họ không thật sự trách móc, oán giận bạn đâu. Vì họ là những người yêu thương, gần gũi bạn nhất. Hãy dành một buổi tâm sự với mọi người, nói lên hết những suy nghĩ của bản thân để mọi người được thấu hiểu nhau hơn và tìm cách giải quyết vấn đề."
+      },
+      {
+        "question": "Cộng đồng mạng công kích vào trang cá nhân của tôi và cả người thân của tôi vì những gì tôi đã nói",
+        "answer": "Nếu bạn đang bế tắc, áp lực trước sự công kích của đám đông và thấy bản thân dường như không còn đủ sức mạnh để đối diện, lên tiếng, hãy tạm tránh xa các bình luận tiêu cực ấy bằng cách bỏ các thiết bị điện tử xuống, thử ra ngoài khuây khoả để lấy lại tinh thần. Nếu muốn, bạn có thể rủ thêm người thân, bạn bè cùng đi dạo để cùng tâm sự, chia sẻ cùng. Khi đã sẵn sàng, hãy lên tiếng giải thích và xin lỗi đám đông."
+      },
+      {
+        "question": "Tại sao mọi người lại công kích tôi từ những lời nói hay phát ngôn tôi đưa ra?",
+        "answer": "Việc phát ngôn sai trên mạng xã hội dẫn đến chuyện đám đông tức giận và công kích có thể xuất phát từ việc bạn thiếu tinh tế trong cách dùng từ để truyền tải lời nói của mình. Vì thế, hãy lên tiếng giải thích rõ hơn và xin lỗi. Tạm vắng mặt một thời gian trên các nền tảng ấy để dư luận lắng xuống có lẽ là cách tốt. Đây cũng là thời gian để bạn nhìn nhận, suy nghĩ lại vấn đề và cho bản thân một khoảng nghỉ sau mọi chuyện. Nếu đã lên tiếng xin lỗi nhưng bạn vẫn tiếp tục bị đám đông công kích, hãy tạm dừng việc sử dụng mạng xã hội để dư luận lắng xuống. Lời xin lỗi ngay lúc mọi người đều dồn sự tập trung cho việc chỉ trích bạn sẽ không thể khiến sự việc dừng lại hoàn toàn được. Sự tức giận cũng như sự chú ý của cư dân mạng cần thời gian để vơi đi. Thời gian tránh mặt đó cũng là lúc để bạn nhìn nhận lại bản thân và rút cho mình những bài học kinh nghiệm."
+      },
+
+
+
+
+      {
+        "question": "Tôi đang bị công kích từ những bài đăng của tôi",
+        "answer": "Đôi khi, việc người khác công kích chúng ta chỉ để làm phiền và gây rối. Không cần phải quan tâm quá nhiều đến ý kiến của họ mà thay vào đó, hãy tập trung phát triển bản thân để bạn có thể tỏa sáng theo một hướng khác."
+      },
+      {
+        "question": "Tôi bị công kích, miệt thị từ ngoại hình của mình",
+        "answer": "Là một con người, bạn không có quyền quyết định về cơ thể, hoàn cảnh sống, nhưng thay vào đó bạn có thể quyết định cách bạn sống. Bạn không nên để tâm quá nhiều vào những bình luận ác ý trên mạng. Dành thời gian nhiều hơn để tập trung vào các mục tiêu cá nhân và phát triển năng lực của mình. Vẻ đẹp của một người không chỉ nằm ở ngoại hình mà còn quyết định bởi tri thức, tính cách, những thứ ẩn bên trong mà mắt thường không thể thấy."
+      },
+      {
+        "question": "Kiến thức của tôi làm tôi bị công kích",
+        "answer": "Sẽ rất khó chịu khi đọc những đoạn bình luận đó về bạn. Nhưng đừng tập trung quá nhiều vào những điều đó rồi lại buồn, bạn hãy tìm đến người thân, gia đình và bạn bè, hay là những người thân để có thể an ủi mình. Luôn nhớ rằng mỗi người đều là độc nhất và khái niệm về cái đẹp không hề tồn tại những chuẩn mực, quy định để đánh giá."
+      },
+      {
+        "question": "Tôi bị mọi người chế giễu và chê bai ngoại hình của mình.",
+        "answer": "Bạn để tâm vào những lời bình luận đó cũng không giúp bạn ổn hơn được đâu. Mỗi người có cách nhìn nhận về cái đẹp là khác nhau, không phải giống nhau, vì vậy nên việc áp đặt những suy nghĩ của họ về mình vào chính bản thân ta lại không phải là ý kiến tốt. Bạn hãy tiếp tục trui rèn và phát triển bản thân mình hơn, cứ sống là chính mình vì mình là chủ của cuộc sống này chứ không phải bọn họ."
+      },
+      {
+        "question": "Tôi tự ti vì lời nói của mọi người dành cho ngoại hình của mình",
+        "answer": "Vẻ bề ngoài không quan trọng như thế đâu, bởi vì hiện nay vẫn không hề có những chuẩn mực, hay quy định nào liên quan đến cái đẹp - cái xấu. Không chỉ có vậy, mỗi người ta đều có những suy nghĩ khác nhau về vấn đề này, vì thế, những gì họ bình luận trên mạng lại chưa chắc sẽ đúng đối với bạn. Thế nên, thay vì thật quan tâm vào những lời nói đó, bạn hãy cứ tự tin sống là chính mình. Cứ tiếp tục theo đuổi những gì mình thích, và đồng thời theo đuổi thứ mà mình thực sự tin là cái đẹp. Không những thế, bạn cũng hãy thử tắt hay chặn những bình luận tiêu cực đó, hoặc là hãy lờ đi những tin nhắn có nội dung tương tự."
+      },
+      {
+        "question": "Tôi bị body shaming",
+        "answer": "Body shaming là một hiện trạng cũng khá phổ biến trên mạng xã hội hiện nay. Tuy bọn họ có thể buông những lời như thế đối với bạn, những cũng hãy để ý xem, những người đó cũng không xinh đẹp hơn bạn là bao nhiêu. Nếu được thì bạn hãy mặc kệ những lời nói đó, và cứ tiếp tục sống là chính mình. Biết đâu, bọn họ lại đang ghen tị với những điều bạn đang có rồi mới có thể ghi những dòng bình luận như thế thì sao nào?"
+      },
+      {
+        "question": "Mọi người cười nhạo về những hình ảnh tôi đăng tải",
+        "answer": "Hãy chắc chắn rằng bạn đang tạm thời rời xa những trang mạng xã hội đó để ổn định cảm xúc của mình. Việc bọn họ cười đùa trên những tấm ảnh của bạn cũng có thể là họ chỉ đang vui vẻ với nhau và không hề có ý gì xấu. Nếu trong tình huống đó thì bạn nên giải thích cho họ rằng bạn đang khó chịu. Còn nếu bọn họ không có ý tốt thì hãy đừng ngần ngại mà block những tài khoản đó lại, đồng thời tìm kiếm sự giúp đỡ từ những người xung quanh, người thân trong gia đình, hoặc là thầy cô."
+      },
+      {
+        "question": "Nhiều người công kích tôi từ những khiếm khuyết trên cơ thể tôi",
+        "answer": "Sự thu hút của mỗi người không chỉ được quyết định bởi nhan sắc, mà còn bởi cách ứng xử, học thức và tính cách. Vì vậy đừng quá quan tâm lời nói của người khác. Thực chất họ không chú ý nhiều đến khuyết điểm của bạn sau những lời đánh giá như bạn nghĩ đâu. Bởi thứ con người để tâm nhất vẫn là hình ảnh của bản thân họ trong mắt người khác. Thế nên, hãy dành nhiều thời gian hơn để phát triển bản thân bạn nhé."
+      },
+      {
+        "question": "Tôi phải làm gì trước những lời trêu chọc của mọi người về mình",
+        "answer": "Việc tự ti về trình độ kiến thức của bản thân khi bị người khác chê cười thật sự rất khó để vượt qua. Nhưng cách duy nhất để bạn sớm thoát khỏi tình trạng ấy chính là hãy chấp nhận nó, đánh giá đúng khả năng của mình hiện tại để từ đó tìm được phương pháp trau dồi bản thân một cách hiệu quả, phù hợp. Hãy thử chuyển sang một lĩnh vực bạn yêu thích cũng như tự tin để thấy rằng bạn vốn cũng có điểm toả sáng của riêng mình."
+      },
+      {
+        "question": "Tôi rất buồn vì những lời chê bai của mọi người dành cho tôi",
+        "answer": "Chúng ta vốn không có quyền được chọn lựa nơi mình sẽ sinh ra, ngoại hình mình sẽ mang theo và trí tuệ mình sở hữu. Nhưng chúng ta có thể khiến bản thân tốt hơn từng ngày nhờ cách sống và sự nỗ lực của mình. Vì vậy đừng đắm chìm mãi trong sự tiêu cực mà hãy lấy những lời chê bai ấy làm động lực thúc đẩy bản thân tiến về phía trước để chứng minh chính mình bạn nhé."
+      },
+      {
+        "question": "Tôi thấy bản thân kém cỏi và tự ti về khả năng của bản thân vì những lời nói của mọi người",
+        "answer": ""
+      },
+
+
+      
+
+      {
+        "question": "Tôi bị công kích từ các cuộc cãi nhau trên mạng",
+        "answer": "Việc bị vướng vào các cuộc cãi nhau trên Internet là điều không ai mong muốn. Việc đưa ra và thống nhất ý kiến trong một tập thể không phải là việc dễ dàng gì, và việc chấp nhận ý kiến của người khác trong khi ý tưởng của mình bị bác bỏ lại càng khó khăn hơn. Nhưng biết đâu, một khởi đầu mới sẽ lại thay đổi bạn theo hướng tốt hơn. Đồng thời, nếu bạn thực sự không mong muốn điều đó, hãy thử liên hệ với người có thẩm quyền cao hơn để nhờ sự giúp đỡ."
+      },
+      {
+        "question": "Tôi đã lên tiếng tranh luận, phản bác ý kiến của mọi người và bị công kích",
+        "answer": "Việc bị xoáy sâu vào các cuộc cãi nhau trên mạng sẽ không tốt cho bạn và cả những người khác có liên quan. Bạn nên dừng việc tranh cãi lại để bình tĩnh và cùng nhau tìm xem vấn đề ở chỗ nào để có thể cùng đưa ra cách giải quyết với bên còn lại. Không chỉ có thế, nếu ý kiến bên kia không thực sự ổn thì bạn nên tìm ra vấn đề của họ rồi góp ý cho họ biết."
+      },
+      {
+        "question": "Hôm nay, tôi đã có một cuộc tranh cãi với mọi người trên mạng xã hội",
+        "answer": "Hãy nhớ rằng việc tiếp tục phản biện lại ý kiến của đối phương không bao giờ là một ý kiến hay nhất. Bạn nên dừng lại và tìm một nơi để có thể bình tĩnh. Sau khi đã ổn hơn với cảm xúc của mình, bạn nên tìm kiếm các phương án ổn nhất trong tình huống của mình. Đó cũng có thể là thử chấp nhận ý kiến của đối phương - Đôi khi lại thật sự phù hợp, hay là nhờ đến sự trợ giúp của người khác."
+      },
+      {
+        "question": "Tôi đang vướng vào một cuộc tranh luận trên mạng xã hội",
+        "answer": "Với một nơi tràn ngập người dùng như mạng xã hội, ý kiến nêu ra từ mỗi cá nhân sẽ rất đa dạng và khó kiểm soát. Vì vậy, việc bất đồng quan điểm dẫn đến tranh cãi nhau là chuyện không khó để xảy ra. Hãy thử lắng nghe ý kiến của mọi người và xem xét lại vấn đề xem phía nào đã sai, hoặc có chỗ nào hai bên đã hiểu nhầm, chưa hiểu rõ ý nhau không. Và hãy nhớ rằng việc giữ cho bản thân bình tĩnh để có thái độ giao tiếp lịch sự luôn là yếu tố quan trọng."
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+
+
+
+
+
+      {
+        "question": "Người ta công kích bởi những thông tin không đúng của tôi",
+        "answer": "Con người ai mà chẳng có lúc hiểu sai về một vấn đề gì đó. Tuy có thể nói bạn làm sai, nhưng hãy nhớ là mọi việc không quá tồi tệ đâu. Bạn có thể thử tìm hiểu kĩ lại vấn đề, hay hỏi những chuyên gia về lĩnh vực đó, để từ đó có thể đính chính lại thông tin với mọi người. Đừng quên kèm theo đó là một lời xin lỗi."
+      },
+      {
+        "question": "Tôi đã đăng tải những thông tin không đúng và khiến mọi người phẫn nộ",
+        "answer": "Việc cung cấp một thông tin không đúng có thể làm ảnh hưởng nhiều đến danh dự của chính chủ của thông tin đó. Thế nhưng mọi việc có vẻ sẽ ổn hơn rất nhiều nếu bạn thử tự tìm cách sửa sai và xin lỗi mọi người."
+      },
+      {
+        "question": "Phải làm sao khi tôi lỡ thông tin sai một câu chuyện và bị mọi người công kích?",
+        "answer": "Mạng xã hội là nơi tràn ngập những thông tin, kể cả đúng và sai sự thật. Thế nên việc vô tình lan truyền đi một thông điệp không đúng cũng không phải là việc quá nguy hiểm, ngoại trừ việc bạn cố tình. Dù sao thì, bạn cũng nên sửa lại những thông tin sai lệch đó, đồng thời hãy cẩn thận hơn trong những lần tiếp theo bạn gặp một thông tin trên mạng mà bạn muốn chia sẻ."
+      },
+      {
+        "question": "Lời nói không đúng sự thật của tôi bị đám đông tức giận phản đối, tôi nên làm thế nào đây?",
+        "answer": "Thật khó để tránh khỏi sự giận dữ, châm chọc của đám đông trước việc một người đưa ra những thông tin sai cho họ. Tuy nhiên, đừng quá lo sợ và có những suy nghĩ tiêu cực. Hãy nghiêm túc nhìn nhận lỗi lầm của mình và lên tiếng xin lỗi. Sự tức giận của mọi người rồi sẽ giảm bớt theo thời gian."
+      },
+
+
+
+
+      {
+        "question": "Những người không ưa tôi đang hợp tác với nhau để tấn công tôi, phải làm thế nào đây?",
+        "answer": "Không phải ai cũng sẽ được tất cả mọi người xung quanh yêu mến đâu. Chính vì vậy nên bị ghét không phải là việc quá hiếm. Bạn có thử tìm cách nói chuyện một cách rõ ràng ràng với họ, hay cũng có thể chặn đi những tài khoản đó nếu thực sự cảm nhận được họ không có ý tốt. Và đừng quên là hãy thông báo cho những người lớn xung quanh (thầy cô, cha mẹ,...) để có thể có cách xử lý tốt nhất."
+      },
+      {
+        "question": "Tôi bị công kích từ những người không có vẻ gì là yêu thích tôi",
+        "answer": "Hãy cứ bình tĩnh và thư giãn, đừng căng thẳng. Bạn biết bọn họ cũng sẽ không thể làm gì được bạn ngoài việc cứ châm chọc và buông những lời bình luận trên mạng như thế mà đúng không? Cứ mặc kệ những lời nói đó. Bạn có thể thử nhờ đến sự giúp đỡ của mọi người xung quanh để được tư vấn và ra lời khuyên một cách chuẩn xác và cụ thể hơn."
+      },
+      {
+        "question": "Tôi bị nhiều người ghét, và họ đang công kích tôi",
+        "answer": "Việc bị ghét không phải là chuyện gì quá hiếm gặp, và có lẽ bạn cũng nên học cách để chịu đựng việc mọi người đang ghét mình. Và có lẽ việc bị những người ghét cùng nhau công kích sẽ không phải là một việc quá dễ chịu. Bạn có thể thử giải thích cho họ vấn đề, vì biết đâu đấy họ không hiểu hết ý của bạn nên mới công kích bạn. Và luôn nhớ rằng, hoà thuận được với mọi người sẽ luôn là phương án tốt nhất. Thế nên hãy cố làm lành với họ và cũng giải quyết mâu thuẫn trong quá khứ, để vừa có thể tạo thêm những mối quan hệ xã hội mới cũng như là làm giảm đi những việc tương tự có thể diễn ra trong tương lai."
+      },
+      {
+        "question": "Có lẽ tôi đang bị tấn công từ những người ghét tôi",
+        "answer": "Nếu như bạn bị công kích từ những người ghét bạn, hãy thử tìm hiểu kỹ về nguyên nhân, lý do vì sao bạn lại bị công kích như vậy. Và có lẽ mọi chuyện sẽ càng tồi tệ hơn khi cảm nhận được là những người công kích chỉ đang công kích vì ghét mình chứ không phải lý do chính đáng. Việc thương lượng với họ không phải là giải pháp tồi, hãy thử nói lên suy nghĩ của mình, đồng thời hãy cố làm giảm sức nóng của cả hai bên, hay thậm chí là làm hoà với nhau. Bên cạnh đó, bạn cũng nên thật bình tĩnh trong những tình huống như thế, để có thể đưa ra một quyết định sáng suốt nhất nhé."
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+
+
+
+
+      {
+        "question": "Tôi đang bị phân biệt chủng tộc",
+        "answer": "Phân biệt chủng tộc hiện nay không phải là vấn đề quá hiếm, khi mà vấn đề này sẽ có thể xảy ra ở khắp mọi nơi. Bạn có thể thử nhờ trợ giúp từ những người xung quanh, từ các thầy cô, bạn bè hay đồng nghiệp khác. Hay thậm chí, bạn có thể báo cho các cơ quan chức năng để họ có thể giúp đỡ bạn. Và đừng quên rằng, bạn cũng nên tránh né đi những người như thế, cứ mặc kệ họ và tiếp tục là chính mình, là người của nơi mình thuộc về thôi."
+      },
+      {
+        "question": "Họ đang công kích từ hoàn cảnh gia đình của tôi",
+        "answer": "Có lẽ, chính sự khác biệt về văn hóa, nguồn gốc đã làm bạn khác biệt đi so với những người xung quanh, từ đó dẫn đến việc bị công kích. Việc tốt nhất bạn nên làm có lẽ là nên mặc kệ những lời nói đó, và cứ tiếp tục sống là chính mình thôi. Bạn hãy ghi nhớ rằng, mình sẽ không bao giờ có thể chọn lựa nơi mình sinh ra, nhưng việc sống thế nào sẽ là của bạn quyết định. Bạn cũng có thể thử nhờ đến sự giúp đỡ của nhiều người xung quanh, để từ đó có thể đưa ra cho bạn một lời khuyên chính xác nhất cho tình huống bạn đang gặp phải. Và bạn cũng nên tránh xa đi những người đó, cứ mặc kệ họ với những câu nói đó của họ."
+      },
+      {
+        "question": "Quá khứ của tôi khiến tôi bị công kích",
+        "answer": "Không phải ai cũng sẽ có quá khứ như nhau cả, và chính từ những điều khác biệt đó mới làm nên sự “độc nhất” của loài người. Hãy luôn nhớ rằng, dù bạn có đang tổn thương hay chán nản đi nữa cũng sẽ không thể thay đổi được quá khứ của mình. Thế nên hãy bỏ ngoài tai những lời công kích khó nghe đó, mà hãy tiếp tục vững bước trên chuyến hành trình của mình. Khi bạn đã thành công rồi, người ta chỉ nhìn vào bạn của hiện tại thôi, chứ sẽ không còn ai soi mói quá khứ bạn nữa."
+      },
+      {
+        "question": "Bọn họ xúc phạm đến văn hóa sống của chúng tôi",
+        "answer": "Văn hóa sống của mỗi người khác nhau, điều đó sẽ phụ thuộc nhiều vào sở thích, hoàn cảnh cá nhân, tôn giáo,... và điều đó không có gì phải buồn khi việc bị họ công kích cũng có thể coi là bạn là người có văn hoá sống rất đặc biệt. Sẽ không có ý nghĩa gì nếu bạn cứ buồn rầu hay là bị ảnh hưởng từ những câu nói đó. Hãy cứ tiếp tục phát triển và làm đẹp văn hóa sống của bạn, bởi vì chính văn hoá đặc biệt ấy đã góp phần làm nên bạn như bây giờ."
+      },
+      {
+        "question": "Tôi không thể hòa đồng được khi đến với một môi trường mới",
+        "answer": "Việc hoà đồng khi di chuyển để học tập và làm việc ở một môi trường khác không phải là một việc dễ dàng gì, nhất là đối với một nơi hoàn toàn xa lạ. Bạn cứ thử tập chấp nhận những điều mới mẻ, vì biết đâu sau một thời gian dài sinh sống bạn sẽ dần thích nghi với môi trường hiện tại của bạn. Nếu bạn vẫn cảm thấy khó khăn trong việc thích nghi, bạn có thể thử tìm kiếm những người đã trải qua tình huống giống bạn để có thể xin họ giải pháp cũng như là lời khuyên. Bạn cũng nên thông báo tình hình hoàn cảnh của của mình cho những người có thẩm quyền, ví dụ như sếp của bạn (nếu môi trường bạn khó thích nghi là nơi làm việc) hay là ban giám hiệu nhà trường (nếu môi trường bạn khó thích nghi là trường mới). Luôn nhớ rằng, vạn sự khởi đầu nan."
+      },
+      {
+        "question": "Tôi đã quá mệt mỏi về việc bị người ta phân biệt và đối xử kỳ thị về văn hóa và tôn giáo của tôi",
+        "answer": "Bị phân biệt đối xử từ những lý do cá nhân không phải là việc quá hiếm gặp hiện nay. Việc bạn bị như thế không có nghĩa là bạn “thấy ghê” trước mắt họ, mà có lẽ chính là sự đặc biệt từ những điều đó đã làm họ để ý. Bạn có thể thử giải thích đồng thời chia sẻ với họ về những vấn đề văn hóa của bạn thử, biết đâu điều đó sẽ lại càng khiến bạn được gắn kết với mọi người hơn. Thế nhưng, nếu bọn họ công kích với sự cố tình, bạn hãy lảng tránh những người đó, đồng thời cứ mặc kệ những lời nói đó của họ và tiếp tục con đường bạn đã chọn. Bạn cũng nên báo cho những người có thẩm quyền hay gia đình của bạn về vấn đề này, để có phương án xử lý chính xác và hợp lý hơn nhé."
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+      {
+        "question": "",
+        "answer": ""
+      },
+      {
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
